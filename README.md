@@ -1,2 +1,1 @@
-This line is edited in feature1 branch.
-
+This is edited in feature2
