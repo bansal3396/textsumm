@@ -1,2 +1,1 @@
-This summarizer was created by Udhav. (feature1 version)
-
+This summarizer was created by Udhav. (merged version)
